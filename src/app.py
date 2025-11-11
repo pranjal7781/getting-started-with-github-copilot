@@ -75,7 +75,7 @@ activities = {
     "Math Club": {
         "description": "Problem solving, math competitions, and enrichment",
         "schedule": "Thursdays, 3:30 PM - 4:30 PM",
-        "max_participants": 20,
+        "max_participants": 25,
         "participants": ["sophia@mergington.edu", "oliver@mergington.edu"]
     }
 }
